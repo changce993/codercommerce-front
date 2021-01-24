@@ -1,0 +1,202 @@
+[
+    {
+        "id":"0",
+        "slug":"macbook pro 2017",
+        "name":"Macbook PRO",
+        "price":"2499.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Computadoras",
+        "image":"https://images.unsplash.com/photo-1502054195739-505158fe7855?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzF8fG1hY2Jvb2slMjBwcm98ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"1",
+        "slug":"iphone 11 pro max",
+        "name":"iPhone 11 PRO Max",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Celulares",
+        "image":"https://images.unsplash.com/photo-1603898037225-1bea09c550c0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
+    },
+    {
+        "id":"2",
+        "slug":"canon ds550",
+        "name":"Canon DS550",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Camaras",
+        "image":"https://images.unsplash.com/photo-1586510279468-26a0e9d0f5d9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTF8fGNhbWVyYXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"3",
+        "slug":"airpods pro",
+        "name":"Airpods PRO",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Auriculares",
+        "image":"https://images.unsplash.com/photo-1588156979435-379b9d365296?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzZ8fGFpcnBvZHMlMjBwcm98ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"4",
+        "slug":"appleWatch 4",
+        "name":"AppleWatch 4",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Smartwatch",
+        "image":"https://images.unsplash.com/photo-1542541864-4abf21a55761?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YXBwbGV3YXRjaCUyMDR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"5",
+        "slug":"sony e360fx",
+        "name":"Sony E360FX",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Camaras",
+        "image":"https://images.unsplash.com/photo-1562184242-2b39bde0ab6f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+    },
+    {
+        "id":"6",
+        "slug":"ultrabook hp 5100RP",
+        "name":"ultrabook hp 5100RP",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Computadoras",
+        "image":"https://images.unsplash.com/photo-1593642634402-b0eb5e2eebc9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+    },
+    {
+        "id":"7",
+        "slug":"macbook pro 2017",
+        "name":"Macbook PRO 2017",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Computadoras",
+        "image":"https://images.unsplash.com/photo-1513918596785-a2fcc5a5d302?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fG1hY2Jvb2t8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"8",
+        "slug":"airpods",
+        "name":"Airpods",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Auriculares",
+        "image":"https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8YWlycG9kc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"9",
+        "slug":"ipad pro 2020",
+        "name":"iPad PRO 2020",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Tablets",
+        "image":"https://images.unsplash.com/photo-1561154464-82e9adf32764?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80"
+    },
+    {
+        "id":"10",
+        "slug":"kit ipad pro",
+        "name":"Kit iPad PRO",
+        "price":"2499.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Tablets",
+        "image":"https://images.unsplash.com/photo-1546868871-0f936769675e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8aXBhZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"11",
+        "slug":"iphone x",
+        "name":"iPhone X",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Celulares",
+        "image":"https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8aXBob25lfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"12",
+        "slug":"imac 2015",
+        "name":"iMac 2015",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Computadoras",
+        "image":"https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+        "id":"13",
+        "slug":"canon ip565",
+        "name":"Canon IP565",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Auriculares",
+        "image":"https://images.unsplash.com/photo-1526352319234-c349ead2152a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjV8fGNhbWFyYXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"14",
+        "slug":"iphone xr",
+        "name":"iPhone XR",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Celulares",
+        "image":"https://images.unsplash.com/photo-1523329110005-297cf111f8de?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8aXBob25lfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"15",
+        "slug":"monitor ultrawide",
+        "name":"Monitor Ultrawide",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Monitores",
+        "image":"https://images.unsplash.com/photo-1557352115-cf5afee0ce20?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8c2NyZWVuJTIwdWx0cmF3aWRlJTIwZGlzcGxheXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"16",
+        "slug":"ultrabook hp 5100RP",
+        "name":"ultrabook hp 5100RP",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Computadoras",
+        "image":"https://images.unsplash.com/photo-1593642634402-b0eb5e2eebc9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+    },
+    {
+        "id":"17",
+        "slug":"magic keyboard",
+        "name":"Magic Keyboard",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Tablets",
+        "image":"https://images.unsplash.com/photo-1493878777218-cf22a808450c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mjh8fG1hZ2ljJTIwa2V5Ym9hcmR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+        "id":"18",
+        "slug":"smartcover ipad",
+        "name":"Smartcover iPad",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Tablets",
+        "image":"https://images.unsplash.com/photo-1589157774617-919700992e4c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2089&q=80"
+    },
+    {
+        "id":"19",
+        "slug":"smart keyboard ipad",
+        "name":"Smart Keyboard iPad",
+        "price":"49.99",
+        "description":"lorem ipsum",
+        "stock":"1",
+        "category":"Tablets",
+        "image":"https://images.unsplash.com/photo-1551816230-c69a383e04f3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8&auto=format&fit=crop&w=800&q=60"
+    }
+]

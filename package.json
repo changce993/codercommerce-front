@@ -3,12 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@callstack/react-theme-provider": "^2.1.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "atomize": "^1.0.26",
+    "pure-react-carousel": "^1.27.6",
     "react": "^17.0.1",
+    "react-atomize": "^1.0.33",
     "react-dom": "^17.0.1",
+    "react-responsive": "^8.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
+    "react-transition-group": "^4.4.1",
+    "styled-components": "^5.2.1",
+    "styletron-engine-atomic": "^1.4.6",
+    "styletron-react": "^5.2.7",
+    "url-slug": "^3.0.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
